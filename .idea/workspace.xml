@@ -4,20 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06f76d6e-42e9-40b2-b1b0-9445b65024ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Basic/Lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Basic/Lab3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Basic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Variables/Lab4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Variables/Lab5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Variables/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CentricToAll1/Lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll1/Basic/Lab1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll1/Basic/main.py" afterDir="false" />
+    <list default="true" id="06f76d6e-42e9-40b2-b1b0-9445b65024ba" name="Changes" comment="Practiced and Pushed the code">
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/SumOfNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/SwappingOfNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/PrimitiveDataTypes/Lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/PrimitiveDataTypes/Lab7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/PrimitiveDataTypes/Lab8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/PrimitiveDataTypes/Lab9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/PrimitiveDataTypes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Variables/Lab6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/Arrays/Lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/Arrays/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/Typecasting/Lab11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/Typecasting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +48,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab1.executor": "Run",
+    "Python.Lab10.executor": "Run",
+    "Python.Lab11.executor": "Run",
     "Python.Lab2.executor": "Run",
     "Python.Lab3.executor": "Run",
     "Python.Lab4.executor": "Run",
     "Python.Lab5.executor": "Run",
+    "Python.Lab6.executor": "Run",
+    "Python.Lab7.executor": "Run",
+    "Python.Lab8.executor": "Run",
+    "Python.Lab9.executor": "Run",
+    "Python.SumOfNumbers.executor": "Run",
+    "Python.SwappingOfNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -76,6 +86,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706194959588</updated>
     </task>
+    <task id="LOCAL-00001" summary="Practiced and Pushed the code">
+      <option name="closed" value="true" />
+      <created>1706200727277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706200727277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practiced and Pushed the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practiced and Pushed the code" />
   </component>
 </project>
