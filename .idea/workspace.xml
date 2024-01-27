@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f76d6e-42e9-40b2-b1b0-9445b65024ba" name="Changes" comment="Practiced and Pushed the code">
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/Days.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/If.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/If2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Ifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Ifelse2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Lists/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Operators/Arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Operators/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Operators/Bitiwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Operators/Comparison.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Operators/Identity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Operators/Logical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Operators/Membership.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Operators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Typecasting/Lab13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Typecasting/Lab14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Typecasting/Lab15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Nestedif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Nestedifelif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Nestedifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Nestedifelse2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CentricToAll2/Arrays/Lab12.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll2/Lists/Lab12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CentricToAll2/Arrays/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/CalculationOfBMI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +65,10 @@
     "Python.Lab9.executor": "Run",
     "Python.Logical.executor": "Run",
     "Python.Membership.executor": "Run",
+    "Python.Nestedif.executor": "Run",
+    "Python.Nestedifelif.executor": "Run",
+    "Python.Nestedifelse.executor": "Run",
+    "Python.Nestedifelse2.executor": "Run",
     "Python.SumOfNumbers.executor": "Run",
     "Python.SwappingOfNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -126,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706250565745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Practiced and Pushed the code">
+      <option name="closed" value="true" />
+      <created>1706285640210</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706285640210</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
