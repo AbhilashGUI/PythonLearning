@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f76d6e-42e9-40b2-b1b0-9445b65024ba" name="Changes" comment="Practiced and Pushed the code">
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Nestedif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Nestedifelif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Nestedifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/DecisionMakingStatements/Nestedifelse2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/CalculationofBMI2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/Leapyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +44,7 @@
     "Python.Assignment.executor": "Run",
     "Python.Bitiwise.executor": "Run",
     "Python.CalculationOfBMI.executor": "Run",
+    "Python.CalculationofBMI2.executor": "Run",
     "Python.Comparison.executor": "Run",
     "Python.Days.executor": "Run",
     "Python.Identity.executor": "Run",
@@ -63,10 +67,17 @@
     "Python.Lab7.executor": "Run",
     "Python.Lab8.executor": "Run",
     "Python.Lab9.executor": "Run",
+    "Python.Leapyear.executor": "Run",
     "Python.Logical.executor": "Run",
     "Python.Membership.executor": "Run",
+    "Python.MultipleDMS.executor": "Run",
+    "Python.MultipleDMS2.executor": "Run",
+    "Python.MultipleDMS3.executor": "Run",
+    "Python.MultipleDMS4.executor": "Run",
+    "Python.MultipleDMS5.executor": "Run",
     "Python.Nestedif.executor": "Run",
     "Python.Nestedifelif.executor": "Run",
+    "Python.Nestedifelif2.executor": "Run",
     "Python.Nestedifelse.executor": "Run",
     "Python.Nestedifelse2.executor": "Run",
     "Python.SumOfNumbers.executor": "Run",
@@ -122,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706285640210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Practiced and Pushed the code">
+      <option name="closed" value="true" />
+      <created>1706331845511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706331845511</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
