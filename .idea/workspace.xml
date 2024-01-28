@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f76d6e-42e9-40b2-b1b0-9445b65024ba" name="Changes" comment="Practiced and Pushed the code">
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/CalculationofBMI2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/Leapyear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MultipleDMS5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/FriendshipCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/LoveCalculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +42,7 @@
     "Python.CalculationofBMI2.executor": "Run",
     "Python.Comparison.executor": "Run",
     "Python.Days.executor": "Run",
+    "Python.FriendshipCalculator.executor": "Run",
     "Python.Identity.executor": "Run",
     "Python.If.executor": "Run",
     "Python.If2.executor": "Run",
@@ -69,6 +65,7 @@
     "Python.Lab9.executor": "Run",
     "Python.Leapyear.executor": "Run",
     "Python.Logical.executor": "Run",
+    "Python.LoveCalculator.executor": "Run",
     "Python.Membership.executor": "Run",
     "Python.MultipleDMS.executor": "Run",
     "Python.MultipleDMS2.executor": "Run",
@@ -141,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706331845511</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practiced and Pushed the code">
+      <option name="closed" value="true" />
+      <created>1706374901570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706374901570</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
