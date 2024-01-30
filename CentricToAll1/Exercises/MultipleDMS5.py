@@ -24,7 +24,7 @@ if Add_sabzi=='Y':
   if Breakfast=='Puri':
     Bill+=5
 else:
-    Bill+=15          #Note:Else statement doesn't work
+    Bill+=15
 
 Add_waterbottle=input("Would you like to add waterbottle(Y/N):")
 if Add_waterbottle=='Y':

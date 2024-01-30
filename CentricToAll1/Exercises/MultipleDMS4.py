@@ -18,7 +18,7 @@ if Add_salad=='Y':
   if Biryani_order=='Full':
     Bill+=10
 else:
-    Bill+=20          #Note:Else statement doesn't work
+    Bill+=20
 
 Add_coke=input("Would you like to add coke (Y/N):")
 if Add_coke=='Y':
