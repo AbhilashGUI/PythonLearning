@@ -5,16 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6b240d8-6ab9-42bb-b558-e72d42f1bc30" name="Changes" comment="Practiced and Pushed the code">
-      <change afterPath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentrilToAll3/Sets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll3/Sets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll3/Tuples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll4/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CentricToAll2/Operators/Bitiwise.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll2/Operators/Bitiwise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Tuples/Lab20.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentrilToAll3/Tuples/Lab20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Lists/Lab12.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Lists/Lab12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Lists/Lab16.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Lists/Lab16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Lists/Lab17.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Lists/Lab17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Lists/Lab18.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Lists/Lab18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Lists/Lab19.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Lists/Lab19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Lists/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Randomization/Random.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Randomization/Random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Randomization/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab23.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Sets/Lab23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab24.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Sets/Lab24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab25.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Sets/Lab25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab26.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Sets/Lab26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab27.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Sets/Lab27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Sets/Lab28.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Sets/Lab28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Sets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Tuples/Lab20.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Tuples/Lab20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Tuples/Lab21.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Tuples/Lab21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Tuples/Lab22.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Tuples/Lab22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/Tuples/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Lists/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentrilToAll3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CentricToAll3/Randomization/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +69,8 @@
     "Python.Lab26.executor": "Run",
     "Python.Lab27.executor": "Run",
     "Python.Lab28.executor": "Run",
+    "Python.Lab29.executor": "Run",
+    "Python.Lab30.executor": "Run",
     "Python.Matrix.executor": "Run",
     "Python.Matrix2.executor": "Run",
     "Python.Matrix3.executor": "Run",
@@ -73,6 +90,11 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\Python_Learning\CentricToAll2\Loopstatements" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -113,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707114017965</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Practiced and Pushed the code">
+      <option name="closed" value="true" />
+      <created>1707205522686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707205522686</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
