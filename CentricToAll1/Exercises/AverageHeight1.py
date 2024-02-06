@@ -16,4 +16,4 @@ for i in Heights_List:
     print(Total)
 
 Average=Total/Count
-print(f"Average of heights :{round(Average)}")
+print(f"Average of heights :{round(Average)}") #Using round function to get the int value
