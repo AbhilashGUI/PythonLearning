@@ -1,4 +1,4 @@
-#Bitwise operators#
+ #Bitwise operators#
 
 
 #Note:Bitwise operator deals with the binar values of the declared number.

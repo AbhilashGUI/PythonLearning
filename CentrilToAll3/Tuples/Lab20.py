@@ -1,4 +1,4 @@
-#Tupple: A comma-separated group of items is called a Python triple. These are denoted in the round brackets and  immutable in nature.
+#Tuple: A comma-separated group of items is called a Python triple. These are denoted in the round brackets and  immutable in nature.
 
 num_tuple=(21,25,45,78,664,12)
 print(num_tuple)
