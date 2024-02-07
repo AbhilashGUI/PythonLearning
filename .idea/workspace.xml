@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6b240d8-6ab9-42bb-b558-e72d42f1bc30" name="Changes" comment="Practiced and Pushed the code">
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MaximumNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MaximumNumber2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/FIZZBUZZ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/PasswordGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/PasswordGenerator2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/SumOfEvennumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/RangeFunction/Lab35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/RangeFunction/Lab36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/RangeFunction/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +46,7 @@
   "keyToString": {
     "Python.AverageHeight.executor": "Run",
     "Python.AverageHeight1.executor": "Run",
+    "Python.FIZZBUZZ.executor": "Run",
     "Python.Lab17.executor": "Run",
     "Python.Lab18.executor": "Run",
     "Python.Lab19.executor": "Run",
@@ -55,6 +65,12 @@
     "Python.Lab32.executor": "Run",
     "Python.Lab33.executor": "Run",
     "Python.Lab34.executor": "Run",
+    "Python.Lab35.executor": "Run",
+    "Python.Lab36.executor": "Run",
+    "Python.Lab37.executor": "Run",
+    "Python.Lab38.executor": "Run",
+    "Python.Lab39.executor": "Run",
+    "Python.Lab40.executor": "Run",
     "Python.Matrix.executor": "Run",
     "Python.Matrix2.executor": "Run",
     "Python.Matrix3.executor": "Run",
@@ -62,12 +78,15 @@
     "Python.MaximumNumber2.executor": "Run",
     "Python.MultipleDMS4.executor": "Run",
     "Python.MultipleDMS5.executor": "Run",
+    "Python.PasswordGenerator.executor": "Run",
+    "Python.PasswordGenerator2.executor": "Run",
     "Python.Random.executor": "Run",
     "Python.RandomBillPayment.executor": "Run",
     "Python.RandomBillPayment1.executor": "Run",
     "Python.RandomCaptainSelection2.executor": "Run",
     "Python.RandomCaptionSelection.executor": "Run",
     "Python.RockPaperScissor.executor": "Run",
+    "Python.SumOfEvennumber.executor": "Run",
     "Python.Virtualcointoss.executor": "Run",
     "Python.Virtualdice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -154,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707244114813</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Practiced and Pushed the code">
+      <option name="closed" value="true" />
+      <created>1707284339302</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707284339302</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
