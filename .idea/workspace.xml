@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6b240d8-6ab9-42bb-b558-e72d42f1bc30" name="Changes" comment="Practiced and Pushed the code">
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/AverageHeight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/AverageHeight1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MaximumNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/MaximumNumber2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +58,8 @@
     "Python.Matrix.executor": "Run",
     "Python.Matrix2.executor": "Run",
     "Python.Matrix3.executor": "Run",
+    "Python.MaximumNumber.executor": "Run",
+    "Python.MaximumNumber2.executor": "Run",
     "Python.MultipleDMS4.executor": "Run",
     "Python.MultipleDMS5.executor": "Run",
     "Python.Random.executor": "Run",
@@ -75,6 +73,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -139,7 +138,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707223345823</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Practiced and Pushed the code">
+      <option name="closed" value="true" />
+      <created>1707244072526</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707244072527</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Practiced and Pushed the code">
+      <option name="closed" value="true" />
+      <created>1707244114813</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707244114813</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
