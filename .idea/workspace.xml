@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6b240d8-6ab9-42bb-b558-e72d42f1bc30" name="Changes" comment="Practiced and Pushed the code">
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/FIZZBUZZ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/PasswordGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/PasswordGenerator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll1/Exercises/SumOfEvennumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/Loopstatements/Lab40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/RangeFunction/Lab35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/RangeFunction/Lab36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CentricToAll2/RangeFunction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/JumpStatments/Lab41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/JumpStatments/Lab42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/JumpStatments/Lab43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/JumpStatments/Lab44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/JumpStatments/Lab45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentricToAll2/JumpStatments/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +66,11 @@
     "Python.Lab38.executor": "Run",
     "Python.Lab39.executor": "Run",
     "Python.Lab40.executor": "Run",
+    "Python.Lab41.executor": "Run",
+    "Python.Lab42.executor": "Run",
+    "Python.Lab43.executor": "Run",
+    "Python.Lab44.executor": "Run",
+    "Python.Lab45.executor": "Run",
     "Python.Matrix.executor": "Run",
     "Python.Matrix2.executor": "Run",
     "Python.Matrix3.executor": "Run",
@@ -181,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707284339302</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Practiced and Pushed the code">
+      <option name="closed" value="true" />
+      <created>1707306000684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707306000684</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
